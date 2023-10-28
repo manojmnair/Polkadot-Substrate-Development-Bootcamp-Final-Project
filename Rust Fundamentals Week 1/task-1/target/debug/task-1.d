@@ -1,0 +1,1 @@
+/home/manoj/hackathon/study/Polkadot-Substrate-Development-Bootcamp-Final-Project/Rust\ Fundamentals\ Week\ 1/task-1/target/debug/task-1: /home/manoj/hackathon/study/Polkadot-Substrate-Development-Bootcamp-Final-Project/Rust\ Fundamentals\ Week\ 1/task-1/src/main.rs
